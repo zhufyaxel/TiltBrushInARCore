@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: c425a4ec6ad4145818bbf179f8b20cbc
+timeCreated: 1502679948
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Stay_Strong_Americans_DoubleTaperedMarker_geo
+    100004: Stay_Strong_Americans_Ink_geo
+    100006: Stay_Strong_Americans_Marker_geo
+    100008: Stay_Strong_Americans_OilPaint_geo
+    100010: Stay_Strong_Americans_Paper_geo
+    100012: Stay_Strong_Americans_TaperedMarker_geo
+    100014: Stay_Strong_Americans_TaperedMarker_geo_MeshPart0
+    100016: Stay_Strong_Americans_TaperedMarker_geo_MeshPart1
+    400000: //RootNode
+    400002: Stay_Strong_Americans_DoubleTaperedMarker_geo
+    400004: Stay_Strong_Americans_Ink_geo
+    400006: Stay_Strong_Americans_Marker_geo
+    400008: Stay_Strong_Americans_OilPaint_geo
+    400010: Stay_Strong_Americans_Paper_geo
+    400012: Stay_Strong_Americans_TaperedMarker_geo
+    400014: Stay_Strong_Americans_TaperedMarker_geo_MeshPart0
+    400016: Stay_Strong_Americans_TaperedMarker_geo_MeshPart1
+    2300000: Stay_Strong_Americans_DoubleTaperedMarker_geo
+    2300002: Stay_Strong_Americans_Ink_geo
+    2300004: Stay_Strong_Americans_Marker_geo
+    2300006: Stay_Strong_Americans_OilPaint_geo
+    2300008: Stay_Strong_Americans_Paper_geo
+    2300010: Stay_Strong_Americans_TaperedMarker_geo_MeshPart0
+    2300012: Stay_Strong_Americans_TaperedMarker_geo_MeshPart1
+    3300000: Stay_Strong_Americans_DoubleTaperedMarker_geo
+    3300002: Stay_Strong_Americans_Ink_geo
+    3300004: Stay_Strong_Americans_Marker_geo
+    3300006: Stay_Strong_Americans_OilPaint_geo
+    3300008: Stay_Strong_Americans_Paper_geo
+    3300010: Stay_Strong_Americans_TaperedMarker_geo_MeshPart0
+    3300012: Stay_Strong_Americans_TaperedMarker_geo_MeshPart1
+    4300000: Stay_Strong_Americans_Marker_geo
+    4300002: Stay_Strong_Americans_Paper_geo
+    4300004: Stay_Strong_Americans_DoubleTaperedMarker_geo
+    4300006: Stay_Strong_Americans_TaperedMarker_geo_MeshPart0
+    4300008: Stay_Strong_Americans_TaperedMarker_geo_MeshPart1
+    4300010: Stay_Strong_Americans_OilPaint_geo
+    4300012: Stay_Strong_Americans_Ink_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

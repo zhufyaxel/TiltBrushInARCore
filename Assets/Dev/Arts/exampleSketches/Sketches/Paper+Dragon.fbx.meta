@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 446457a978f6f4e418d86419e42b1061
+timeCreated: 1502679900
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Paper_Dragon_CoarseBristles_geo
+    100004: Paper_Dragon_Embers_geo
+    100006: Paper_Dragon_Fire_geo
+    100008: Paper_Dragon_Ink_geo
+    100010: Paper_Dragon_Light_geo
+    100012: Paper_Dragon_Marker_geo
+    100014: Paper_Dragon_Paper_geo
+    100016: Paper_Dragon_Paper_geo_MeshPart0
+    100018: Paper_Dragon_Paper_geo_MeshPart1
+    100020: Paper_Dragon_Plasma_geo
+    100022: Paper_Dragon_Smoke_geo
+    100024: Paper_Dragon_Stars_geo
+    100026: Paper_Dragon_Streamers_geo
+    100028: Paper_Dragon_Taffy_geo
+    400000: //RootNode
+    400002: Paper_Dragon_CoarseBristles_geo
+    400004: Paper_Dragon_Embers_geo
+    400006: Paper_Dragon_Fire_geo
+    400008: Paper_Dragon_Ink_geo
+    400010: Paper_Dragon_Light_geo
+    400012: Paper_Dragon_Marker_geo
+    400014: Paper_Dragon_Paper_geo
+    400016: Paper_Dragon_Paper_geo_MeshPart0
+    400018: Paper_Dragon_Paper_geo_MeshPart1
+    400020: Paper_Dragon_Plasma_geo
+    400022: Paper_Dragon_Smoke_geo
+    400024: Paper_Dragon_Stars_geo
+    400026: Paper_Dragon_Streamers_geo
+    400028: Paper_Dragon_Taffy_geo
+    2300000: Paper_Dragon_CoarseBristles_geo
+    2300002: Paper_Dragon_Embers_geo
+    2300004: Paper_Dragon_Fire_geo
+    2300006: Paper_Dragon_Ink_geo
+    2300008: Paper_Dragon_Light_geo
+    2300010: Paper_Dragon_Marker_geo
+    2300012: Paper_Dragon_Paper_geo_MeshPart0
+    2300014: Paper_Dragon_Paper_geo_MeshPart1
+    2300016: Paper_Dragon_Plasma_geo
+    2300018: Paper_Dragon_Smoke_geo
+    2300020: Paper_Dragon_Stars_geo
+    2300022: Paper_Dragon_Streamers_geo
+    2300024: Paper_Dragon_Taffy_geo
+    3300000: Paper_Dragon_CoarseBristles_geo
+    3300002: Paper_Dragon_Embers_geo
+    3300004: Paper_Dragon_Fire_geo
+    3300006: Paper_Dragon_Ink_geo
+    3300008: Paper_Dragon_Light_geo
+    3300010: Paper_Dragon_Marker_geo
+    3300012: Paper_Dragon_Paper_geo_MeshPart0
+    3300014: Paper_Dragon_Paper_geo_MeshPart1
+    3300016: Paper_Dragon_Plasma_geo
+    3300018: Paper_Dragon_Smoke_geo
+    3300020: Paper_Dragon_Stars_geo
+    3300022: Paper_Dragon_Streamers_geo
+    3300024: Paper_Dragon_Taffy_geo
+    4300000: Paper_Dragon_Marker_geo
+    4300002: Paper_Dragon_Paper_geo_MeshPart0
+    4300004: Paper_Dragon_Paper_geo_MeshPart1
+    4300006: Paper_Dragon_Plasma_geo
+    4300008: Paper_Dragon_Fire_geo
+    4300010: Paper_Dragon_Smoke_geo
+    4300012: Paper_Dragon_Ink_geo
+    4300014: Paper_Dragon_Taffy_geo
+    4300016: Paper_Dragon_Embers_geo
+    4300018: Paper_Dragon_Streamers_geo
+    4300020: Paper_Dragon_Light_geo
+    4300022: Paper_Dragon_CoarseBristles_geo
+    4300024: Paper_Dragon_Stars_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
